@@ -1,0 +1,15 @@
+﻿  win32_platform.cpp
+D:\c++ gyakorlas\kisebbprojektek\pingpong\pingpong\win32_platform.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++ gyakorlas\kisebbprojektek\pingpong\pingpong\renderer.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\c++ gyakorlas\kisebbprojektek\pingpong\pingpong\renderer.cpp(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\c++ gyakorlas\kisebbprojektek\pingpong\pingpong\renderer.cpp(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\c++ gyakorlas\kisebbprojektek\pingpong\pingpong\renderer.cpp(56,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+  pingpong.vcxproj -> D:\c++ gyakorlas\kisebbprojektek\pingpong\x64\Debug\pingpong.exe
